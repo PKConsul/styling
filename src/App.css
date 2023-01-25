@@ -1,0 +1,13 @@
+.emails{
+  color: white;
+  text-align: center;
+  margin: 300px auto;
+  font-size: x-large;
+}
+.email-input{
+  font-size: large;
+}
+.email-button{
+  font-size: large;
+  height: 30px;
+}
