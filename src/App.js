@@ -25,7 +25,7 @@ const submitHandler = async (e) =>{
   return (
     <div className="emails">
       <form onSubmit={submitHandler} className= "form">
-        <p>Sign up to Our Newsletter Tomorrow </p>
+        <p>Sign up to Our Newsletter After Tomorrow </p>
         <input className="email-input" onChange={inputHandler} placeholder="Email" type="email" value={input}></input>
         <button className="email-button">Submit This Form</button>
       </form>
